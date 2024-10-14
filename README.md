@@ -138,4 +138,3 @@ To run any of the projects, clone the repository and install the dependencies:
 ```bash
 git clone https://github.com/BhargavShekokar3425/Machine-Learning-Tasks.git
 cd Machine-Learning-Tasks
-pip install -r requirements.txt
